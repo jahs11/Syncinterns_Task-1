@@ -1,2 +1,2 @@
-# Syncinterns_Task-1
+# Syncinterns_Tasks
 A basic product landing page
